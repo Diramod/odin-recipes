@@ -1,0 +1,126 @@
+body {
+    width: 600px;
+    
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin: 20px auto;
+    font-size: medium;
+    border-style: outset;
+    border-color: rgba(22, 22, 22, 0.3);
+    background-color: rgba(236, 178, 6, 0.169);
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    border-bottom-style: dotted;
+    border-radius: 5px;
+    border-width: 5px;
+    text-align: center;
+    width: 600px;
+    
+}
+
+
+img {
+    width: 600px;
+    margin: 30px auto ;
+    border-radius: 4px;
+}
+
+.ingredients {
+    background-color: rgba(250, 234, 225, 0.473);
+    border-radius: 4px;
+}
+
+.smaller-title {
+    text-align: center;
+    border-bottom-style: dashed;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 1px;
+    
+    
+}
+
+.subheading {
+    width: 600px;
+    background-color: rgba(241, 238, 238, 0.473);
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 30px;
+
+    
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    width: 600px;
+    margin-left: -37px;
+    line-height: 1.2;
+}
+
+.stepsp {
+    
+    margin-top: 30px;
+    background-color: rgba(218, 231, 207, 0.473);
+    border-radius: 4px;
+}
+
+.steps {
+    text-align: center;
+    border-bottom-style: dashed;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 1px;
+    margin-top: 0;
+}
+
+.steps-box {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1.4;
+}
+
+.recipe-tip, 
+.recipe-box {
+    text-align: center;
+    line-height: 1.6;
+}
+
+
+
+.page-end {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    background-color: rgba(207, 215, 231, 0.473);
+    border-radius: 4px;
+}
+
+.recipe-tip {
+    border-bottom-style: dashed;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.smallest-title {
+    text-align: center;
+    margin: 0 auto;
+    
+}
